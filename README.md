@@ -1,8 +1,12 @@
 # the venus project
 
-The best pipe dream ever conceived: Sending self replicating zeppelins to venus
+The best pipe dream ever conceived: Sending fully autonomous self replicating zeppelins to venus.
 
-## Stages
+## inspirations
+
+- [High Altitude Venus Operational Concept (HAVOC)](https://sacd.larc.nasa.gov/smab/havoc/) 
+
+## stages
 
 What has been done and still needs to be done in chronological order.
 
